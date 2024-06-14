@@ -1,1 +1,1 @@
-# laptop-price-prediction
+# Aim is to predict the price of laptop. 
